@@ -7,7 +7,7 @@
 Adafruit_BNO055 bno = Adafruit_BNO055(55, 0x28);
 
 // --- Madgwick variables ---
-float beta = 0.3;       // 2 * proportional gain
+float beta = 0.1;       // 2 * proportional gain
 float q0 = 1.0f, q1 = 0.0f, q2 = 0.0f, q3 = 0.0f;  // quaternion state
 float sampleFreq = 100.0f;  // 100 Hz
 
