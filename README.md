@@ -1,4 +1,4 @@
-# BNO055_Madgwick_Filter
+
 # BNO055 Madgwick Filter (Arduino)
 
 ## 📌 Description
